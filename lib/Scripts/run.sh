@@ -1,3 +1,7 @@
+echo "Installing Requirements..."
+pip install repltalk
+echo "Done"
+clear
 echo "Running Repl.it Name Checker..."
 cd ..
 cd Main
