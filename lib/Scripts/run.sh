@@ -2,6 +2,6 @@ echo "Running Repl.it Name Checker..."
 cd ..
 cd Main
 clear
-python main.py
+python Check.py
 cd ..
 cd Scripts
